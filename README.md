@@ -1,4 +1,5 @@
-# Mental Health EDA Project
+# Mental Health EDA Project ![20230519_OPIN_MentalHealth_3x2](https://github.com/celefigs/EDA-milestone-3/assets/156691291/ebf4bec5-4cb5-4ed2-963f-b664df5eb727)
+
 
 ## Table of Contents
 1. Introduction
@@ -27,8 +28,8 @@ The project utilizes the following technologies:
 - Visualization of key findings
 
 ### Examples of Use
-- Analyzing the distribution of mental health conditions across different demographics.
-- Identifying correlations between certain variables and mental health issues.
+- Analyzing the distribution of mental health conditions by gender and productivity at work.
+- Identifying correlations between certain demographic factors and mental health issues.- Identifying correlations between certain variables and mental health issues.
 
 ### Project Status
 Ongoing
