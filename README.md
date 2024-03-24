@@ -1,14 +1,15 @@
-# Milestone-3
-Exploratory Data Analysis Project
-
 # Mental Health EDA Project
 
-## Introduction
+## Table of Contents
+1. Introduction
+2. Technologies
+3. Launch
+4. Additional Elements
 
+## Introduction
 The aim of this project is to conduct an exploratory data analysis (EDA) on a dataset related to mental health. The analysis focuses on understanding various factors associated with mental health issues and their prevalence.
 
 ## Technologies
-
 The project utilizes the following technologies:
 - Python
 - Pandas
@@ -16,18 +17,12 @@ The project utilizes the following technologies:
 - Seaborn
 
 ## Launch
-
 To launch the project, follow these steps:
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
 3. Open the README.md file to get started.
 
 ## Additional Elements
-
-### Table of Contents
-1. Introduction
-2. Technologies
-3. Launch
 
 ### Illustrations
 - Visualizations of data insights
@@ -45,7 +40,9 @@ To launch the project, follow these steps:
 Ongoing
 
 ### Sources
-- Dataset: [Provide dataset source if applicable]
+- Dataset: [Mental Health Dataset](https://www.kaggle.com/datasets/bhavikjikadara/mental-health-dataset)
+- EDA for Categorical Variables - A Beginner's Way: [Kaggle Notebook](https://www.kaggle.com/code/nextbigwhat/eda-for-categorical-variables-a-beginner-s-way)
+- EDA for Categorical Variables - Part 2: [Kaggle Notebook](https://www.kaggle.com/code/nextbigwhat/eda-for-categorical-variables-part-2)
 
 ### Other Information
 Feel free to contribute to the project or reach out for further information.
