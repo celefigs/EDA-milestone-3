@@ -1,39 +1,42 @@
-# Data Science EDA Milestone
-Using the Air BnB dataset that you've used previously or a similar dataset that has been cleared by myself, Priyanka or Pilar, do the following:
-1. Combine the analysis that you've done so far into one file
-2. Organize it in a way such that the story you're telling is following a logical pattern
-3. Add  additional analyses to your document as how you see fit
+# Mental Health EDA Project
+![20230519_OPIN_MentalHealth_3x2 (3)](https://github.com/celefigs/EDA-milestone-3/assets/156691291/e4dda38e-90a2-4234-8a16-50d3d37c477e)
+## Table of Contents
+1. Introduction
+2. Technologies
+3. Launch
+4. Additional Elements
 
-If you'd like to not use NYC data and instead want to do another city, feel free to take a look at and download data from here: http://insideairbnb.com/get-the-data/
+## Introduction
+The aim of this project is to conduct an exploratory data analysis (EDA) on a dataset related to mental health. The analysis focuses on understanding various factors associated with mental health issues and their prevalence.
 
-Once this is complete, post it on your GitHub repository and send me the URL to your repository via Slack. In order to do so, this means that you would need to create a brand new repository with the proper name. 
+## Technologies
+The project utilizes the following technologies:
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
 
-## When doing your exploratory analysis, here are some questions that might help guide you:
-- What story are you trying to tell? [most important!]
-  - For example, if you're analyzing price, _why_ are you analyzing price? What can this effect?
-  - What do you expect to happen? What actually happened?
-- Could the reader easily follow what you're doing?
-  - Note: It's recommended that you supplement your analysis with text!!
-- Is your analysis split into logical sections?
-- Who are you presenting this EDA to? Always consider your audience!
+## Additional Elements
 
-## When we go over your project, here are some of the things that you might want to consider:
-- Dealing with missing values, duplicates and outliers
-- Data cleaning (i.e. removing $'s)
-- Readability of graphs and analyses
-- Proper handling of variables depending on data type
-- Interpretability of statistics
-- Choosing the "proper" graphs 
-- Organization (i.e. titles, subtitles, additional text)
-- Easiness to understand and follow
-  - Hint: Think about who you're presenting to!
-- As always, additional effort!
+### Illustrations
+- Visualizations of data insights
 
-## If you'd like to generate some ideas as to what a good EDA looks like, take a look at the following Kaggle repositories:
-- https://www.kaggle.com/code/satyabrataroy/60-insights-extraction-us-accident-analysis
-- https://www.kaggle.com/code/ash316/eda-to-prediction-dietanic
-- https://www.kaggle.com/code/chmaxx/ashrae-eda-and-visualization-wip/notebook
+### Scope of Functionalities
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- Visualization of key findings
 
+### Examples of Use
+- Analyzing the distribution of mental health conditions by gender and productivity at work.
+- Identifying correlations between certain demographic factors and mental health issues.- Identifying correlations between certain variables and mental health issues.
 
-If you have any questions, feel free to reach out to me and I'll get back to you as soon as possible!
+### Project Status
+Ongoing
 
+### Sources
+- Dataset: [Mental Health Dataset](https://www.kaggle.com/datasets/bhavikjikadara/mental-health-dataset)
+- EDA for Categorical Variables - A Beginner's Way: [Kaggle Notebook](https://www.kaggle.com/code/nextbigwhat/eda-for-categorical-variables-a-beginner-s-way)
+- EDA for Categorical Variables - Part 2: [Kaggle Notebook](https://www.kaggle.com/code/nextbigwhat/eda-for-categorical-variables-part-2)
+
+### Other Information
+Feel free to contribute to the project or reach out for further information.
