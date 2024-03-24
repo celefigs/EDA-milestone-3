@@ -1,4 +1,4 @@
-# Mental Health EDA Project ![20230519_OPIN_MentalHealth_3x2](https://github.com/celefigs/EDA-milestone-3/assets/156691291/ebf4bec5-4cb5-4ed2-963f-b664df5eb727)
+# Mental Health EDA Project ![Mental Health](https://s3-prod.adage.com/s3fs-public/styles/width_660/public/20230519_OPIN_MentalHealth_3x2.jpg)
 
 
 ## Table of Contents
