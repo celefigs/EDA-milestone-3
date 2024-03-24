@@ -16,12 +16,6 @@ The project utilizes the following technologies:
 - Matplotlib
 - Seaborn
 
-## Launch
-To launch the project, follow these steps:
-1. Clone the repository to your local machine.
-2. Navigate to the project directory.
-3. Open the README.md file to get started.
-
 ## Additional Elements
 
 ### Illustrations
