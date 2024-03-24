@@ -1,5 +1,9 @@
 # Mental Health EDA Project
 
+![Dataset Cover](dataset-cover.png)
+
+
+
 ## Table of Contents
 1. Introduction
 2. Technologies
