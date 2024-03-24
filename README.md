@@ -1,6 +1,5 @@
 # Mental Health EDA Project
-![20230519_OPIN_MentalHealth_3x2 (2)](https://github.com/celefigs/EDA-milestone-3/assets/156691291/391f5509-dac6-4e64-a47e-a2cc0fced5d4)
-
+![20230519_OPIN_MentalHealth_3x2 (3)](https://github.com/celefigs/EDA-milestone-3/assets/156691291/e4dda38e-90a2-4234-8a16-50d3d37c477e)
 ## Table of Contents
 1. Introduction
 2. Technologies
