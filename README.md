@@ -1,13 +1,10 @@
 # Mental Health EDA Project
-<<<<<<< HEAD
 
 ![Dataset Cover](dataset-cover.png)
 
 
 
-=======
 ![20230519_OPIN_MentalHealth_3x2 (3)](https://github.com/celefigs/EDA-milestone-3/assets/156691291/e4dda38e-90a2-4234-8a16-50d3d37c477e)
->>>>>>> e74294e675457f953896cc0cf338e61afdb8e11f
 ## Table of Contents
 1. Introduction
 2. Technologies
@@ -45,6 +42,7 @@ Ongoing
 - Dataset: [Mental Health Dataset](https://www.kaggle.com/datasets/bhavikjikadara/mental-health-dataset)
 - EDA for Categorical Variables - A Beginner's Way: [Kaggle Notebook](https://www.kaggle.com/code/nextbigwhat/eda-for-categorical-variables-a-beginner-s-way)
 - EDA for Categorical Variables - Part 2: [Kaggle Notebook](https://www.kaggle.com/code/nextbigwhat/eda-for-categorical-variables-part-2)
+- https://pandas.pydata.org/docs/reference/api/pandas.crosstab.html
 
 ### Other Information
 Feel free to contribute to the project or reach out for further information.
