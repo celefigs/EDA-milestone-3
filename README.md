@@ -1,9 +1,5 @@
 # Mental Health EDA Project
 
-![Dataset Cover](dataset-cover.png)
-
-
-
 ![20230519_OPIN_MentalHealth_3x2 (3)](https://github.com/celefigs/EDA-milestone-3/assets/156691291/e4dda38e-90a2-4234-8a16-50d3d37c477e)
 ## Table of Contents
 1. Introduction
@@ -29,11 +25,11 @@ The project utilizes the following technologies:
 ### Scope of Functionalities
 - Data cleaning and preprocessing
 - Exploratory data analysis
-- Visualization of key findings
+- Visualization 
 
 ### Examples of Use
-- Analyzing the distribution of mental health conditions by gender and productivity at work.
-- Identifying correlations between certain demographic factors and mental health issues.- Identifying correlations between certain variables and mental health issues.
+- Analyzing the distribution of mental health conditions by gender and types of occupations.
+- Identifying correlations between specific variables and mental health conditions.
 
 ### Project Status
 Ongoing
