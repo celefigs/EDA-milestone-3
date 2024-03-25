@@ -4,8 +4,9 @@
 ## Table of Contents
 1. Introduction
 2. Technologies
-3. Launch
-4. Additional Elements
+3. Additional Elements
+4. Personal Reflections
+
 
 ## Introduction
 The aim of this project is to conduct an exploratory data analysis (EDA) on a dataset related to mental health. The analysis focuses on understanding various factors associated with mental health issues and their prevalence.
@@ -40,7 +41,7 @@ Review process
 - EDA for Categorical Variables - Part 2: [Kaggle Notebook](https://www.kaggle.com/code/nextbigwhat/eda-for-categorical-variables-part-2)
 - https://pandas.pydata.org/docs/reference/api/pandas.crosstab.html
 
-### Personal Reflections
+## Personal Reflections
 
 The project has been a very interesting experience, especially with the freedom to choose the selected dataset. However, I have encountered the limitation that all variables in this dataset are categorical, which has made it difficult for me to apply the tools we have incorporated throughout the module.
 
